@@ -16,3 +16,9 @@
 Work and test:
 - windows 7, 10
 - linux debian
+
+/!\ With linux it's can give "file error" or "sha-256 error" because the OS didn't have the same file system, but it's can work (for me, it's work)
+
+BY CC NC SA 4.0
+
+Webside: http://epcminecraft.fr.gd/N005-Software.htm
